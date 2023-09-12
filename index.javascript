@@ -6,7 +6,7 @@ function exercicio1() {
 
   }
 
-  document.getElementById("root").style.display = "block";
+  document.getElementById("root").style.display = "block"
   document.getElementById("root").innerHTML = `
 <p>A sua nota: ${nota}</p>
 `
